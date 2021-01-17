@@ -7,8 +7,11 @@
 ## 運作方式
 
 get_string_features：找出檔案特徵並且存放於陣列。
+
 scan_file：掃描檔案判斷為善意或惡意
+
 train_detector：以RandomForest訓練detetor。
+
 cv_evaluate：以scores和test_y分辨為善意或惡意檔案畫出ROC curves圖。
 
 ## 執行結果
