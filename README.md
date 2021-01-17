@@ -13,7 +13,7 @@ cv_evaluate：以scores和test_y分辨為善意或惡意檔案畫出ROC curves�
 
 ## 執行結果
 
-![image] (https://github.com/Linwc720/107AB0739-final/blob/main/%E6%93%B7%E5%8F%96.PNG)
+![image](https://github.com/Linwc720/107AB0739-final/blob/main/%E6%93%B7%E5%8F%96.PNG)
 
 ## 心得
 
